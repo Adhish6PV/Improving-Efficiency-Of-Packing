@@ -15,11 +15,11 @@ We're 6th sem mechnanical engineering students from Ramaiah Institue Of Technolo
 
 # We have acheived the following results:
 
-# Homogeneous Box Packing:
+* Homogeneous Box Packing:
 
 Packing Efficiency Achieved by Hollow Block Heuristics = 98.97%
 
-# Heterogenous box Packing:
+* Heterogenous box Packing:
 
 Percentage of Area Covered = 99.20%
 
