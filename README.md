@@ -27,4 +27,4 @@ We're 6th sem mechnanical engineering students from Ramaiah Institue Of Technolo
 
 https://docs.google.com/presentation/d/1zXLCYbFZRJHMOZXmE9njrxismanyuZKcOgXmQrsU_J0/edit?usp=sharing
 
-https://docs.google.com/presentation/d/1zXLCYbFZRJHMOZXmE9njrxismanyuZKcOgXmQrsU_J0/edit?usp=sharing
+
