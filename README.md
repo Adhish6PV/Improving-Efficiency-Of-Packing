@@ -25,4 +25,4 @@ We're 6th sem mechnanical engineering students from Ramaiah Institue Of Technolo
 
     ~ Volumetric Efficiency By Using bIASED RANDOM KEY GENETIC ALGORITHM = 80.73%
 
-[https://docs.google.com/presentation/d/1zXLCYbFZRJHMOZXmE9njrxismanyuZKcOgXmQrsU_J0/edit?usp=sharing](url)
+https://docs.google.com/presentation/d/1zXLCYbFZRJHMOZXmE9njrxismanyuZKcOgXmQrsU_J0/edit?usp=sharing
