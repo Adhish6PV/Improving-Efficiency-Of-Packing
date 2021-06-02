@@ -23,5 +23,5 @@ We're 6th sem mechnanical engineering students from Ramaiah Institue Of Technolo
 
     ~ Percentage of Area Covered = 99.20%
 
-    ~ Volumetric Efficiency By Using DFTRC-2 Heuristic = 80.73%
+    ~ Volumetric Efficiency By Using BRKGA Heuristic = 80.73%
 
