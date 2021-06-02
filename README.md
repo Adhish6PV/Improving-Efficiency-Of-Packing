@@ -21,7 +21,7 @@ Packing Efficiency Achieved by Hollow Block Heuristics = 98.97%
 
 * Heterogenous box Packing:
 
-Percentage of Area Covered = 99.20%
+* Percentage of Area Covered = 99.20%
 
-Volumetric Efficiency By Using DFTRC-2 Heuristic = 80.73%
+* Volumetric Efficiency By Using DFTRC-2 Heuristic = 80.73%
 
