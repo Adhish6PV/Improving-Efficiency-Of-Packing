@@ -27,4 +27,7 @@ We're 6th sem mechnanical engineering students from Ramaiah Institue Of Technolo
 
 https://docs.google.com/presentation/d/1zXLCYbFZRJHMOZXmE9njrxismanyuZKcOgXmQrsU_J0/edit?usp=sharing
 
+# Note
 
+* To Access the contents, codes, it should be opened through FANUC Roboguide Software V9.1.0.
+* Heterogeneous Box Packing and Hollow Block Heuristics have 2 parts, to access them, it is advised to move the contents from each part to a single folder and opened using above-mentioned software.
