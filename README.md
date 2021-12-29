@@ -3,7 +3,7 @@
 This is a group project completed by the below mentioned.
 
 
-* Adhish PV
+* Adhish P V
 
 * Pannaga S
 
