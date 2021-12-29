@@ -1,4 +1,4 @@
-# Pallet-Loading-Problem
+# Improving Efficiency Of Packing
 
 This is a group project completed by the below mentioned.
 
